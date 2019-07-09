@@ -1,2 +1,2 @@
 # CryptHero
-Cryptocurrency price application with fetching coinmarketcap.com api
+Cryptocurrency price application fetching coinmarketcap.com api for real time price updates
