@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CryptoHero</string>
+    <string name="BTC">BTC</string>
+    <string name="seven_day">7d</string>
+    <string name="divider">|</string>
+    <string name="Bitcoin">Bitcoin</string>
+    <string name="money_sign">$</string>
+    <string name="USD">USD</string>
+    <string name="one_hour">1hr</string>
+    <string name="twenty_four_hr">24hr</string>
+    <string name="hour_one">1hr  </string>
+</resources>
